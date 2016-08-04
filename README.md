@@ -1,2 +1,3 @@
-# test
-yuuki
+# contributors
+- Max Wan (wizcorp)
+- yuuki
