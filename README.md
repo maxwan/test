@@ -3,3 +3,4 @@
 - osamu-iizuka
 - hiroto morooka
 - Mizuki kubota
+- yuuki Osaki
